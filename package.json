@@ -1,16 +1,17 @@
 {
-    "name": "bloggin-site",
-    "version": "1.0.0",
-    "description": "",
-    "main": "server.js",
-    "scripts": {
-      "start":"nodemon server.js"
-    },
-    "author": "",
-    "license": "ISC",
-    "dependencies": {
-      "express-fileupload": "^1.2.1",
-      "express.js": "^1.0.0",
-      "nodemon": "^2.0.12"
-    }
-  }
+  "name": "bloggin-site",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express-fileupload": "^1.4.3",
+    "express.js": "^1.0.0",
+    "firebase": "^10.7.0",
+    "nodemon": "^2.0.22"
+  },
+  "description": ""
+}
