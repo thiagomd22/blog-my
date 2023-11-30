@@ -1,6 +1,6 @@
-let firebadeConfig = {
-    // enter your firebase crenditals
-}
+let firebaseConfig = {
+    // Enter your firebase credentials
+};
 
 firebase.initializeApp(firebaseConfig);
 
