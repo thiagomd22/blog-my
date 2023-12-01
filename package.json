@@ -1,7 +1,7 @@
 {
   "name": "bloggin-site",
   "version": "1.0.0",
-  "main": "server.js",
+  "main": "blog.html",
   "scripts": {
     "start": "nodemon server.js"
   },
