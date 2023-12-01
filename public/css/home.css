@@ -110,3 +110,13 @@ body{
     background: #1b1b1b;
     color: #fff;
 }
+
+.header-page{
+    background-color: #000;
+    color: #fff;
+    height: 40px;
+    width: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
